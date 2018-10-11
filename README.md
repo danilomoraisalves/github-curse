@@ -1,0 +1,2 @@
+# github-curse
+Teste Git
